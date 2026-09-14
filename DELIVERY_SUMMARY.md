@@ -2,8 +2,8 @@
 
 ## Student Grade Management System - Complete Package
 
-**Student Name:** nkunj  
-**Registration Number:** 24BSA10037  
+**Student Name:** Naman Sharma  
+**Registration Number:** 24BAC10001  
 **Institution:** VIT Bhopal University  
 **Subject:** Java Programming  
 
@@ -430,6 +430,6 @@ java Application
 
 ---
 
-**Created by:** Nikunj 
-**Registration:** 24BSA10037 
+**Created by:** Naman Sharma
+**Registration:** 24BAC10001 
 **Institution:** VIT Bhopal University  
