@@ -434,10 +434,10 @@ copies or substantial portions of the Software.
 
 ## 👥 Contributors
 
-- **Aryaman Joshi** - Initial Development
-  - Student ID: 24MIM10205
+- **Naman Sharma** - Initial Development
+  - Student ID: 24BAC10001
   - Institution: VIT Bhopal University
-  - Email: aryaman@vitbhopal.ac.in
+  - Email: naman@vitbhopal.ac.in
 
 ---
 
@@ -446,7 +446,7 @@ copies or substantial portions of the Software.
 For issues, questions, or suggestions:
 
 1. **Open an Issue** on GitHub
-2. **Email:** aryaman@vitbhopal.ac.in
+2. **Email:** naman@vitbhopal.ac.in
 3. **Documentation:** See `docs/` folder
 
 ---
@@ -467,7 +467,7 @@ This project demonstrates:
 
 **Made with ❤️ by Aryaman Joshi**
 
-VIT Bhopal University | Computer Science Department
+VIT Bhopal University | SEEE Department
 
 ![GitHub Stars](https://img.shields.io/github/stars/yourusername/StudentGradeManagementSystem?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/yourusername/StudentGradeManagementSystem?style=social)
