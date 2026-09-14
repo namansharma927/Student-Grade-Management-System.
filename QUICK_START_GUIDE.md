@@ -8,7 +8,7 @@
 
 You now have **4 complete files** ready for submission:
 
-### 1. **Student_Grade_Mgmt_System_Aryaman.pdf** ⭐
+### 1. **Student_Grade_Mgmt_System_Naman_Sharma.pdf** ⭐
    - 12-page professional project report
    - VIT Bhopal University branding
    - All requirements covered
@@ -92,7 +92,7 @@ java Application
 
 ### Student Account
 ```
-Email: aryaman@vitbhopal.ac.in
+Email: naman@vitbhopal.ac.in
 Password: pass123
 
 Can: View grades, see performance
@@ -113,7 +113,7 @@ Can: Add/Update/Delete grades, manage students
 ### Try These Operations:
 
 1. **Login as Student**
-   - Enter email: `aryaman@vitbhopal.ac.in`
+   - Enter email: `naman@vitbhopal.ac.in`
    - Enter password: `pass123`
    - View grades (none yet)
 
@@ -141,7 +141,7 @@ Can: Add/Update/Delete grades, manage students
 ### What to Submit:
 
 1. **PDF Report** (Main Submission)
-   - `Student_Grade_Mgmt_System_Aryaman.pdf`
+   - `Student_Grade_Mgmt_System_Naman_Sharma.pdf`
    - Print-friendly format
    - All requirements documented
 
@@ -237,7 +237,7 @@ StudentGradeManagementSystem/
 │   ├── utils/
 │   └── ...
 └── docs/
-    └── Student_Grade_Mgmt_System_Aryaman.pdf
+    └── Student_Grade_Mgmt_System_Naman_Sharma.pdf
 ```
 
 ---
@@ -254,7 +254,7 @@ Check: src/models/, src/services/, src/utils/
 ```
 Use Default Credentials:
   Admin: admin@vitbhopal.ac.in / admin@123
-  Student: aryaman@vitbhopal.ac.in / pass123
+  Student: naman@vitbhopal.ac.in / pass123
 ```
 
 ### Issue: No Grade Data
@@ -388,8 +388,8 @@ Your complete project package is ready for:
 
 ## 📞 QUICK CONTACTS
 
-**Student:** NIKUNJ  
-**Registration:** 24BSA10037  
+**Student:** Naman Sharma 
+**Registration:** 24BAC10001  
 **Institution:** VIT Bhopal University  
 **Subject:** Java Programming  
 
