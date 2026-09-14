@@ -2,7 +2,7 @@
 
 ## Student Grade Management System - Complete Delivery Package
 
-**Student:** Nikunj | **ID:** 24BSA10037 | **Institution:** VIT Bhopal University
+**Student:** Naman Sharma | **ID:** 24BAC10001 | **Institution:** VIT Bhopal University
 
 ---
 
