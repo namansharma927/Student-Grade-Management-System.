@@ -2,11 +2,11 @@
 
 ## Student Grade Management System
 
-**Submitted By:** Aryaman Joshi  
-**Registration Number:** 24MIM10205  
+**Submitted By:** Naman Sharma 
+**Registration Number:** 24BAC10001  
 **Institution:** VIT Bhopal University  
   **Subject:** Java Programming  
-**Academic Year:** 2024-2025  
+**Academic Year:** 2026-2027 
 
 ---
 
@@ -433,11 +433,11 @@ This project is **production-ready** and serves as an excellent foundation for *
 
 I hereby declare that this project submission is entirely my own work. The source code, documentation, and testing have been completed by me. I understand the academic integrity policies and have adhered to them throughout this project.
 
-**Signature:** Aryaman Joshi  
-**Date:** November 23, 2025  
-**Registration Number:** 24MIM10205  
+**Signature:** Naman Sharma  
+**Date:** September 14, 2026 
+**Registration Number:** 24BAC10001 
 
 ---
 
-**VIT Bhopal University | Computer Science & IT Department**  
-**Project Submission | November 2025**
+**VIT Bhopal University | SEEE Department**  
+**Project Submission | September 2026**
