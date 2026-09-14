@@ -12,7 +12,7 @@
 ## ✅ COMPLETE DELIVERABLES
 
 ### 1. 📄 Project Report (PDF)
-**File:** `Student_Grade_Mgmt_System_Aryaman.pdf`  
+**File:** `Student_Grade_Mgmt_System_naman_Sharma.pdf`  
 **Pages:** 12 professional pages  
 **Content:**
 - ✅ Cover page with institution details
